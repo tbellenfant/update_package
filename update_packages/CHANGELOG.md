@@ -1,4 +1,4 @@
-app_frontend CHANGELOG
+update_packages CHANGELOG
 ======================
 
 This file is used to list changes made in each version of the update_packages cookbook.
