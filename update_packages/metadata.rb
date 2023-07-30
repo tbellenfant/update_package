@@ -1,6 +1,6 @@
 name             'update_packages'
-maintainer       'Raven tools'
-maintainer_email 'dev@raventools.com'
+maintainer       'Test123'
+maintainer_email 'test@test.com'
 license          'All rights reserved'
 description      'Updates OS Packages'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
